@@ -255,7 +255,7 @@ input::-moz-focus-outer {
   width: 47px;
   cursor: pointer;
   transition: all 0.5s;
-  transform: translateX(35%);
+  transform: translateX(75%);
 }
 
 .form-check-input:hover {
@@ -404,6 +404,7 @@ button:hover {
   .content_bot {
     padding: 20px 0;
   }
+  
 }
 /*destop*/
 @media screen and (min-width: 1199px) {
